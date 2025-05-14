@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smupamanyu&label=Profile%20views&color=0e75b6&style=flat" alt="smupamanyu" /> </p>
 
-- 🔭 I’m currently working on [my website](projectnemo.in)
+- 🔭 I’m currently working on [my website](www.projectnemo.in)
 
 - 🌱 I’m currently learning **Frontend, ML, everything really, I'm a lifelong learner.**
 
 - 🤝 I’m looking for help with **my website**
 
-- 👨‍💻 All of my projects are available at [projectnemo.in](projectnemo.in)
+- 👨‍💻 All of my projects are available at [projectnemo.in](www.projectnemo.in)
 
 - 💬 Ask me about **music, or even ML!**
 
